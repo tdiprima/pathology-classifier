@@ -1,4 +1,4 @@
-# raj-pathology-classifier
+# Pathology Classifier
 
 ### 🧬 Overview
 
@@ -25,7 +25,7 @@ The goal is to **recreate an earlier model in PyTorch**, train it on Raj's datas
 ### 📂 Project structure
 
 ```
-raj-pathology-classifier/
+pathology-classifier/
 ├── data/                # raw data (NOT in git)
 │   └── classification/  # 10 class folders
 ├── notebooks/           # experiments
@@ -49,8 +49,8 @@ raj-pathology-classifier/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/tdiprima/raj-pathology-classifier.git
-   cd raj-pathology-classifier
+   git clone https://github.com/tdiprima/pathology-classifier.git
+   cd pathology-classifier
    ```
 
 2. Create a virtual env (optional but recommended):
